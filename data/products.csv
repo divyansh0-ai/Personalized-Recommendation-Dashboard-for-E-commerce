@@ -1,0 +1,501 @@
+product_id,product_name,brand,category,base_item,cost_price,selling_price,discount_pct,discounted_price,stock_quantity,avg_rating,reviews_count,is_active
+P00001,PrimeSelect Men's T-Shirt,PrimeSelect,Clothing,Men's T-Shirt,199.69,267.26,20,213.81,104,3.54,712,True
+P00002,EcoBloom Winter Jacket,EcoBloom,Clothing,Winter Jacket,406.76,482.35,20,385.88,203,2.97,4464,True
+P00003,TechNova Protein Shaker Bottle,TechNova,Sports & Outdoors,Protein Shaker Bottle,608.25,830.59,0,830.59,432,3.91,2757,True
+P00004,NexGen Formal Shirt,NexGen,Clothing,Formal Shirt,484.96,1086.13,30,760.29,747,4.39,3763,True
+P00005,SilverKey Board Game (Catan),SilverKey,Toys & Games,Board Game (Catan),238.08,475.84,0,475.84,906,4.61,569,True
+P00006,EcoBloom Resistance Bands Set,EcoBloom,Sports & Outdoors,Resistance Bands Set,693.85,1153.99,0,1153.99,464,3.5,2988,True
+P00007,PrimeSelect Sapiens,PrimeSelect,Books,Sapiens,562.95,1166.88,0,1166.88,73,3.82,2005,True
+P00008,SilverKey Hiking Backpack,SilverKey,Sports & Outdoors,Hiking Backpack,179.59,285.15,5,270.89,786,3.87,458,True
+P00009,PrimeSelect Lip Balm Set,PrimeSelect,Beauty & Personal Care,Lip Balm Set,57.62,137.29,20,109.83,580,4.47,4089,True
+P00010,PrimeSelect Green Tea (100 bags),PrimeSelect,Grocery & Gourmet,Green Tea (100 bags),116.01,250.09,20,200.07,551,3.73,2152,True
+P00011,EcoBloom Play-Doh Bundle,EcoBloom,Toys & Games,Play-Doh Bundle,797.87,1066.55,0,1066.55,505,4.26,898,True
+P00012,PeakLine Stuffed Animal,PeakLine,Toys & Games,Stuffed Animal,310.89,607.62,10,546.86,479,4.2,4334,False
+P00013,NovaBrands USB-C Hub,NovaBrands,Electronics,USB-C Hub,546.96,1025.5,20,820.4,273,4.16,2404,True
+P00014,PrimeSelect External SSD,PrimeSelect,Electronics,External SSD,777.65,1694.23,10,1524.81,519,3.56,871,True
+P00015,NexGen Atomic Habits,NexGen,Books,Atomic Habits,611.2,1147.93,15,975.74,797,5.0,4906,True
+P00016,NexGen Socks (6-pack),NexGen,Clothing,Socks (6-pack),703.58,1599.06,0,1599.06,314,3.47,1961,True
+P00017,LunaGoods Women's Dress,LunaGoods,Clothing,Women's Dress,653.74,1614.92,30,1130.44,545,4.13,3893,True
+P00018,SilverKey Puzzle (1000 pieces),SilverKey,Toys & Games,Puzzle (1000 pieces),605.44,1260.12,20,1008.1,730,3.79,2553,False
+P00019,TrueNorth Eyeshadow Palette,TrueNorth,Beauty & Personal Care,Eyeshadow Palette,363.93,540.32,5,513.3,65,3.68,1885,True
+P00020,PeakLine Smartwatch,PeakLine,Electronics,Smartwatch,724.81,1674.68,5,1590.95,72,4.78,4211,True
+P00021,SilverKey Dark Chocolate Box,SilverKey,Grocery & Gourmet,Dark Chocolate Box,110.19,265.88,20,212.7,584,3.7,3874,True
+P00022,BoldStep Leather Belt,BoldStep,Clothing,Leather Belt,286.67,488.77,0,488.77,884,3.89,443,True
+P00023,NovaBrands Body Lotion,NovaBrands,Beauty & Personal Care,Body Lotion,202.68,285.13,5,270.87,459,4.34,3789,True
+P00024,SilverKey Hoodie,SilverKey,Clothing,Hoodie,82.84,168.2,0,168.2,553,4.39,120,False
+P00025,BoldStep Atomic Habits,BoldStep,Books,Atomic Habits,391.08,562.59,20,450.07,410,4.39,17,True
+P00026,BoldStep Protein Bars (12-pack),BoldStep,Grocery & Gourmet,Protein Bars (12-pack),558.79,1193.68,25,895.26,802,3.89,4552,True
+P00027,UrbanEdge Cycling Helmet,UrbanEdge,Sports & Outdoors,Cycling Helmet,465.45,875.96,30,613.17,765,4.03,3905,False
+P00028,TrueNorth Air Fryer,TrueNorth,Home & Kitchen,Air Fryer,68.69,96.23,5,91.42,609,4.28,556,True
+P00029,IronVault Zero to One,IronVault,Books,Zero to One,36.59,46.13,5,43.82,673,3.47,2136,True
+P00030,PrimeSelect Hair Dryer,PrimeSelect,Beauty & Personal Care,Hair Dryer,319.65,657.45,15,558.83,307,3.73,3745,False
+P00031,PureCraft Men's T-Shirt,PureCraft,Clothing,Men's T-Shirt,498.82,952.77,0,952.77,102,4.47,2172,False
+P00032,EcoBloom Socks (6-pack),EcoBloom,Clothing,Socks (6-pack),298.77,407.21,10,366.49,853,4.28,4450,True
+P00033,SilverKey USB-C Hub,SilverKey,Electronics,USB-C Hub,243.01,497.1,30,347.97,961,4.44,876,True
+P00034,SkyForge Pull-Up Bar,SkyForge,Sports & Outdoors,Pull-Up Bar,575.5,820.0,30,574.0,649,3.77,2162,True
+P00035,BoldStep Smartphone,BoldStep,Electronics,Smartphone,664.33,803.52,0,803.52,341,4.21,2145,True
+P00036,TechNova Educational Robot Kit,TechNova,Toys & Games,Educational Robot Kit,93.94,227.88,30,159.52,707,3.25,1221,True
+P00037,SilverKey Nail Polish Set,SilverKey,Beauty & Personal Care,Nail Polish Set,122.73,162.26,15,137.92,315,3.18,326,True
+P00038,NovaBrands Sapiens,NovaBrands,Books,Sapiens,286.17,545.4,0,545.4,895,5.0,3329,False
+P00039,ZenCraft The Psychology of Money,ZenCraft,Books,The Psychology of Money,781.08,1753.17,20,1402.54,902,3.78,2721,True
+P00040,ZenCraft The Pragmatic Programmer,ZenCraft,Books,The Pragmatic Programmer,630.96,817.68,25,613.26,893,4.3,317,True
+P00041,BlueMark Mixed Nuts (500g),BlueMark,Grocery & Gourmet,Mixed Nuts (500g),657.33,1529.14,10,1376.23,228,4.49,2689,True
+P00042,TrueNorth Water Bottle (32oz),TrueNorth,Sports & Outdoors,Water Bottle (32oz),322.74,798.64,0,798.64,549,4.16,2712,True
+P00043,GoldenGate Adjustable Dumbbells,GoldenGate,Sports & Outdoors,Adjustable Dumbbells,770.21,1161.77,20,929.42,111,3.65,2569,True
+P00044,GoldenGate Casual Shorts,GoldenGate,Clothing,Casual Shorts,156.11,188.88,30,132.22,446,3.78,13,False
+P00045,BoldStep Clean Code,BoldStep,Books,Clean Code,60.63,124.09,10,111.68,338,3.47,1020,True
+P00046,AuraStyle Play-Doh Bundle,AuraStyle,Toys & Games,Play-Doh Bundle,559.28,1061.77,20,849.42,196,3.48,3444,True
+P00047,GoldenGate Vacuum Cleaner,GoldenGate,Home & Kitchen,Vacuum Cleaner,244.26,461.58,15,392.34,0,3.96,4751,True
+P00048,SkyForge Coconut Oil (500ml),SkyForge,Grocery & Gourmet,Coconut Oil (500ml),411.38,913.9,0,913.9,982,4.49,1390,True
+P00049,EcoBloom Moisturising Sunscreen SPF50,EcoBloom,Beauty & Personal Care,Moisturising Sunscreen SPF50,539.87,784.57,0,784.57,203,4.21,3892,True
+P00050,AuraStyle The Almanack,AuraStyle,Books,The Almanack,398.03,588.84,0,588.84,671,4.25,45,True
+P00051,TrueNorth Atomic Habits,TrueNorth,Books,Atomic Habits,374.32,712.14,30,498.5,939,4.48,3806,False
+P00052,PureCraft Body Lotion,PureCraft,Beauty & Personal Care,Body Lotion,492.06,1043.67,30,730.57,516,3.56,3495,True
+P00053,LunaGoods Toaster Oven,LunaGoods,Home & Kitchen,Toaster Oven,362.81,785.45,25,589.09,860,3.44,4270,True
+P00054,PeakLine Trekking Poles,PeakLine,Sports & Outdoors,Trekking Poles,572.27,839.27,30,587.49,343,3.32,2619,True
+P00055,AuraStyle Blender,AuraStyle,Home & Kitchen,Blender,556.69,1171.09,20,936.87,65,3.64,3816,True
+P00056,GoldenGate Card Game (UNO),GoldenGate,Toys & Games,Card Game (UNO),757.12,890.65,20,712.52,901,4.37,4716,True
+P00057,AuraStyle Beard Trimmer,AuraStyle,Beauty & Personal Care,Beard Trimmer,683.49,1665.75,5,1582.46,429,3.15,4941,True
+P00058,LunaGoods Camping Tent,LunaGoods,Sports & Outdoors,Camping Tent,28.07,45.02,0,45.02,695,3.87,3312,True
+P00059,SilverKey Vacuum Cleaner,SilverKey,Home & Kitchen,Vacuum Cleaner,26.44,44.47,0,44.47,577,3.97,3511,True
+P00060,PrimeSelect Air Fryer,PrimeSelect,Home & Kitchen,Air Fryer,306.39,439.9,20,351.92,334,3.89,2764,True
+P00061,PeakLine Action Figure Set,PeakLine,Toys & Games,Action Figure Set,378.89,818.85,0,818.85,53,4.66,562,True
+P00062,TechNova Deep Work,TechNova,Books,Deep Work,498.96,734.49,5,697.77,484,4.1,937,True
+P00063,NexGen Protein Shaker Bottle,NexGen,Sports & Outdoors,Protein Shaker Bottle,138.39,272.6,10,245.34,765,3.89,1341,True
+P00064,BlueMark Smart TV,BlueMark,Electronics,Smart TV,462.76,1099.44,5,1044.47,384,3.08,3249,True
+P00065,BlueMark Data Science Handbook,BlueMark,Books,Data Science Handbook,680.98,1335.1,15,1134.83,123,4.32,336,True
+P00066,TrueNorth Moisturising Sunscreen SPF50,TrueNorth,Beauty & Personal Care,Moisturising Sunscreen SPF50,519.8,606.65,0,606.65,430,3.36,4015,True
+P00067,PureCraft Shampoo & Conditioner Bundle,PureCraft,Beauty & Personal Care,Shampoo & Conditioner Bundle,567.31,985.93,25,739.45,751,3.24,4408,True
+P00068,EcoBloom Water Bottle (32oz),EcoBloom,Sports & Outdoors,Water Bottle (32oz),665.43,843.1,5,800.94,902,3.98,3692,True
+P00069,TechNova Play-Doh Bundle,TechNova,Toys & Games,Play-Doh Bundle,397.97,632.28,10,569.05,499,4.35,2788,True
+P00070,TechNova Foam Roller,TechNova,Sports & Outdoors,Foam Roller,415.72,585.3,25,438.97,247,5.0,3329,True
+P00071,LunaGoods The Almanack,LunaGoods,Books,The Almanack,518.49,939.82,5,892.83,811,4.6,3312,True
+P00072,SilverKey Eyeshadow Palette,SilverKey,Beauty & Personal Care,Eyeshadow Palette,427.08,736.47,15,626.0,763,4.15,4508,True
+P00073,BlueMark Protein Bars (12-pack),BlueMark,Grocery & Gourmet,Protein Bars (12-pack),204.87,268.97,5,255.52,197,3.7,1516,True
+P00074,GoldenGate Protein Bars (12-pack),GoldenGate,Grocery & Gourmet,Protein Bars (12-pack),781.4,1452.04,5,1379.44,289,5.0,823,True
+P00075,BlueMark Electric Toothbrush,BlueMark,Beauty & Personal Care,Electric Toothbrush,16.25,30.41,0,30.41,280,4.29,2393,True
+P00076,TechNova Premium Coffee Beans (1 kg),TechNova,Grocery & Gourmet,Premium Coffee Beans (1 kg),461.38,822.96,0,822.96,451,4.16,2791,False
+P00077,LunaGoods Sleeping Bag,LunaGoods,Sports & Outdoors,Sleeping Bag,95.7,118.5,0,118.5,503,4.86,439,True
+P00078,EcoBloom Resistance Bands Set v1,EcoBloom,Sports & Outdoors,Resistance Bands Set,99.17,216.39,5,205.57,620,4.48,4883,True
+P00079,PureCraft Drone for Kids,PureCraft,Toys & Games,Drone for Kids,241.4,469.4,0,469.4,439,3.81,4994,False
+P00080,SkyForge Sapiens,SkyForge,Books,Sapiens,215.39,271.31,30,189.92,245,4.89,1423,True
+P00081,PureCraft Gaming Console,PureCraft,Electronics,Gaming Console,553.05,986.85,0,986.85,33,4.21,3719,True
+P00082,GoldenGate Protein Shaker Bottle,GoldenGate,Sports & Outdoors,Protein Shaker Bottle,530.64,1279.08,30,895.36,435,5.0,940,True
+P00083,PrimeSelect Pillow Set,PrimeSelect,Home & Kitchen,Pillow Set,662.17,825.33,10,742.8,169,4.31,4662,True
+P00084,BlueMark Spice Gift Set,BlueMark,Grocery & Gourmet,Spice Gift Set,561.29,1359.79,25,1019.84,512,3.32,4423,True
+P00085,BoldStep Smart TV,BoldStep,Electronics,Smart TV,588.95,1157.29,0,1157.29,26,5.0,4712,False
+P00086,UrbanEdge Pull-Up Bar,UrbanEdge,Sports & Outdoors,Pull-Up Bar,611.67,848.09,10,763.28,531,4.93,3622,True
+P00087,LunaGoods Water Guns Set,LunaGoods,Toys & Games,Water Guns Set,775.4,1383.71,15,1176.15,418,3.65,1317,True
+P00088,AuraStyle Protein Bars (12-pack),AuraStyle,Grocery & Gourmet,Protein Bars (12-pack),651.78,1233.58,15,1048.54,465,4.87,721,True
+P00089,AuraStyle Raincoat,AuraStyle,Clothing,Raincoat,692.6,1567.81,0,1567.81,1,3.69,3385,True
+P00090,LunaGoods Nail Polish Set,LunaGoods,Beauty & Personal Care,Nail Polish Set,502.2,1092.78,30,764.95,208,3.47,2187,True
+P00091,LunaGoods Trekking Poles,LunaGoods,Sports & Outdoors,Trekking Poles,101.53,250.14,30,175.1,623,4.39,2545,True
+P00092,EcoBloom Board Game (Catan),EcoBloom,Toys & Games,Board Game (Catan),793.84,1891.29,0,1891.29,472,3.2,962,True
+P00093,PrimeSelect Foam Roller,PrimeSelect,Sports & Outdoors,Foam Roller,335.31,604.02,5,573.82,483,4.13,3142,False
+P00094,PeakLine Mattress Topper,PeakLine,Home & Kitchen,Mattress Topper,224.62,497.87,30,348.51,424,4.86,2784,True
+P00095,BlueMark Wireless Earbuds,BlueMark,Electronics,Wireless Earbuds,670.79,1296.57,25,972.43,675,3.76,4412,True
+P00096,SwiftWave Drone for Kids,SwiftWave,Toys & Games,Drone for Kids,696.33,1722.75,20,1378.2,244,4.12,4684,True
+P00097,SwiftWave LEGO City Set,SwiftWave,Toys & Games,LEGO City Set,597.04,1255.01,25,941.26,830,2.78,1246,False
+P00098,GoldenGate Storage Organizer,GoldenGate,Home & Kitchen,Storage Organizer,268.94,345.72,0,345.72,865,5.0,3606,True
+P00099,ClearPath Organic Olive Oil,ClearPath,Grocery & Gourmet,Organic Olive Oil,330.93,673.1,15,572.13,158,5.0,2171,True
+P00100,PeakLine Water Guns Set,PeakLine,Toys & Games,Water Guns Set,682.15,1569.4,20,1255.52,879,4.57,4371,False
+P00101,SilverKey Dried Fruit Mix,SilverKey,Grocery & Gourmet,Dried Fruit Mix,33.54,41.67,0,41.67,646,3.9,1863,True
+P00102,NovaBrands Raincoat,NovaBrands,Clothing,Raincoat,357.72,746.53,0,746.53,925,3.65,237,True
+P00103,NexGen Wireless Earbuds,NexGen,Electronics,Wireless Earbuds,303.0,408.0,0,408.0,543,3.33,1475,True
+P00104,EcoBloom Stuffed Animal,EcoBloom,Toys & Games,Stuffed Animal,400.65,776.16,10,698.54,237,4.58,3777,True
+P00105,PureCraft Smart TV,PureCraft,Electronics,Smart TV,721.46,1489.65,10,1340.69,161,5.0,4813,True
+P00106,PrimeSelect Magnetic Tiles,PrimeSelect,Toys & Games,Magnetic Tiles,368.18,573.57,0,573.57,393,4.75,3958,True
+P00107,BlueMark Nail Polish Set,BlueMark,Beauty & Personal Care,Nail Polish Set,794.19,1229.85,0,1229.85,849,3.84,4636,False
+P00108,BlueMark Dried Fruit Mix,BlueMark,Grocery & Gourmet,Dried Fruit Mix,621.71,908.11,5,862.7,821,3.7,2886,True
+P00109,ClearPath Jump Rope,ClearPath,Sports & Outdoors,Jump Rope,504.46,1195.37,15,1016.06,661,5.0,273,True
+P00110,BlueMark Socks (6-pack),BlueMark,Clothing,Socks (6-pack),264.74,452.95,30,317.06,205,4.36,1082,True
+P00111,TrueNorth Perfume,TrueNorth,Beauty & Personal Care,Perfume,731.22,1660.7,15,1411.6,263,5.0,2417,True
+P00112,ClearPath Premium Coffee Beans (1 kg),ClearPath,Grocery & Gourmet,Premium Coffee Beans (1 kg),604.55,879.37,30,615.56,692,3.36,3255,True
+P00113,PrimeSelect LEGO City Set,PrimeSelect,Toys & Games,LEGO City Set,431.57,761.27,15,647.08,688,4.1,3121,True
+P00114,TechNova Thinking Fast and Slow,TechNova,Books,Thinking Fast and Slow,497.54,1205.68,5,1145.4,335,3.63,4997,True
+P00115,BlueMark Oat Granola (1 kg),BlueMark,Grocery & Gourmet,Oat Granola (1 kg),521.15,681.41,0,681.41,46,4.58,4035,True
+P00116,PureCraft Knife Block Set,PureCraft,Home & Kitchen,Knife Block Set,299.95,729.38,20,583.5,713,3.93,4425,True
+P00117,BoldStep Pillow Set,BoldStep,Home & Kitchen,Pillow Set,525.66,1196.13,15,1016.71,630,2.86,268,True
+P00118,NexGen Dark Chocolate Box,NexGen,Grocery & Gourmet,Dark Chocolate Box,83.99,174.34,0,174.34,557,4.91,2938,True
+P00119,PureCraft Data Science Handbook,PureCraft,Books,Data Science Handbook,77.88,111.86,5,106.27,654,4.0,2732,False
+P00120,SilverKey Data Science Handbook,SilverKey,Books,Data Science Handbook,169.69,244.61,15,207.92,890,4.03,1908,True
+P00121,ClearPath Wireless Earbuds,ClearPath,Electronics,Wireless Earbuds,790.08,1484.79,0,1484.79,817,4.5,211,True
+P00122,SwiftWave Zero to One,SwiftWave,Books,Zero to One,17.55,26.47,30,18.53,129,4.89,3448,True
+P00123,PureCraft Hoodie,PureCraft,Clothing,Hoodie,623.52,1149.07,30,804.35,111,3.69,355,True
+P00124,LunaGoods Laptop,LunaGoods,Electronics,Laptop,678.6,1170.9,25,878.18,110,4.23,4016,True
+P00125,IronVault Formal Shirt,IronVault,Clothing,Formal Shirt,122.93,162.31,20,129.85,639,3.59,2663,False
+P00126,TrueNorth Trekking Poles,TrueNorth,Sports & Outdoors,Trekking Poles,486.31,624.37,30,437.06,718,3.54,937,True
+P00127,PureCraft Designing Data-Intensive Applications,PureCraft,Books,Designing Data-Intensive Applications,711.03,1214.9,15,1032.66,847,3.5,778,True
+P00128,ClearPath Water Bottle (32oz),ClearPath,Sports & Outdoors,Water Bottle (32oz),551.02,986.47,0,986.47,93,4.28,699,True
+P00129,ClearPath Body Lotion,ClearPath,Beauty & Personal Care,Body Lotion,447.31,868.55,15,738.27,575,3.27,3365,True
+P00130,UrbanEdge Musical Toy Piano,UrbanEdge,Toys & Games,Musical Toy Piano,774.88,1519.19,30,1063.43,360,3.76,848,True
+P00131,NovaBrands Dark Chocolate Box,NovaBrands,Grocery & Gourmet,Dark Chocolate Box,283.34,538.62,30,377.03,117,4.16,3515,False
+P00132,PrimeSelect Webcam,PrimeSelect,Electronics,Webcam,28.02,42.56,15,36.18,780,3.32,2531,True
+P00133,ClearPath Mattress Topper,ClearPath,Home & Kitchen,Mattress Topper,455.23,769.82,30,538.87,145,4.01,751,True
+P00134,SwiftWave Drone for Kids v1,SwiftWave,Toys & Games,Drone for Kids,130.14,204.41,0,204.41,332,2.5,4649,True
+P00135,IronVault Stand Mixer,IronVault,Home & Kitchen,Stand Mixer,44.56,56.15,20,44.92,453,3.74,3621,True
+P00136,BoldStep Formal Shirt,BoldStep,Clothing,Formal Shirt,93.16,192.43,30,134.7,607,3.51,3986,True
+P00137,AuraStyle Smartwatch,AuraStyle,Electronics,Smartwatch,787.63,964.02,10,867.62,209,3.97,1124,True
+P00138,LunaGoods Men's T-Shirt,LunaGoods,Clothing,Men's T-Shirt,598.88,830.76,5,789.22,389,4.49,4362,True
+P00139,AuraStyle Moisturising Sunscreen SPF50,AuraStyle,Beauty & Personal Care,Moisturising Sunscreen SPF50,690.1,833.03,20,666.42,19,3.87,2564,True
+P00140,NovaBrands Action Figure Set,NovaBrands,Toys & Games,Action Figure Set,327.0,802.58,15,682.19,175,4.16,3769,True
+P00141,BoldStep Winter Jacket,BoldStep,Clothing,Winter Jacket,473.15,878.8,15,746.98,405,4.78,1815,True
+P00142,NovaBrands Activewear Leggings,NovaBrands,Clothing,Activewear Leggings,426.83,602.59,15,512.2,794,3.38,2862,True
+P00143,NovaBrands Blender,NovaBrands,Home & Kitchen,Blender,121.42,171.97,0,171.97,616,4.68,617,False
+P00144,GoldenGate Hot Sauce Set,GoldenGate,Grocery & Gourmet,Hot Sauce Set,609.1,1069.59,15,909.15,946,4.93,4624,True
+P00145,PureCraft Electric Toothbrush,PureCraft,Beauty & Personal Care,Electric Toothbrush,59.29,103.58,30,72.51,310,4.33,2883,True
+P00146,UrbanEdge Hot Sauce Set,UrbanEdge,Grocery & Gourmet,Hot Sauce Set,50.23,114.16,30,79.91,78,3.33,739,True
+P00147,GoldenGate Mechanical Keyboard,GoldenGate,Electronics,Mechanical Keyboard,523.21,828.8,0,828.8,487,2.59,3690,True
+P00148,PeakLine Face Mask Sheet Pack,PeakLine,Beauty & Personal Care,Face Mask Sheet Pack,406.12,561.65,25,421.24,253,4.09,3586,True
+P00149,NexGen Non-Stick Pan Set,NexGen,Home & Kitchen,Non-Stick Pan Set,734.76,1229.26,0,1229.26,793,3.67,2741,True
+P00150,PrimeSelect Action Figure Set,PrimeSelect,Toys & Games,Action Figure Set,580.37,1181.84,0,1181.84,928,4.79,4937,True
+P00151,NexGen Pillow Set,NexGen,Home & Kitchen,Pillow Set,251.63,512.24,10,461.02,678,3.47,694,True
+P00152,ClearPath Makeup Brush Set,ClearPath,Beauty & Personal Care,Makeup Brush Set,537.74,1220.18,0,1220.18,756,4.61,4312,True
+P00153,NexGen Educational Robot Kit,NexGen,Toys & Games,Educational Robot Kit,19.49,30.54,5,29.01,973,4.43,3983,True
+P00154,PeakLine Stand Mixer,PeakLine,Home & Kitchen,Stand Mixer,240.15,531.68,30,372.18,519,5.0,4421,True
+P00155,IronVault Anti-Aging Cream,IronVault,Beauty & Personal Care,Anti-Aging Cream,109.18,181.08,25,135.81,166,4.49,1356,True
+P00156,EcoBloom Shampoo & Conditioner Bundle,EcoBloom,Beauty & Personal Care,Shampoo & Conditioner Bundle,775.82,1531.7,5,1455.12,770,4.94,3677,True
+P00157,LunaGoods Protein Shaker Bottle,LunaGoods,Sports & Outdoors,Protein Shaker Bottle,723.66,1021.75,10,919.58,694,5.0,3782,True
+P00158,SkyForge RC Car,SkyForge,Toys & Games,RC Car,642.0,858.25,25,643.69,256,3.54,427,True
+P00159,TrueNorth Wool Sweater,TrueNorth,Clothing,Wool Sweater,681.68,1046.27,0,1046.27,781,4.45,4205,True
+P00160,EcoBloom Socks (6-pack) v1,EcoBloom,Clothing,Socks (6-pack),654.28,1533.8,20,1227.04,952,4.65,218,True
+P00161,AuraStyle Hair Dryer,AuraStyle,Beauty & Personal Care,Hair Dryer,795.65,1317.7,0,1317.7,28,3.99,2746,True
+P00162,LunaGoods Hiking Backpack,LunaGoods,Sports & Outdoors,Hiking Backpack,558.38,746.76,25,560.07,722,4.35,3842,True
+P00163,PrimeSelect Men's T-Shirt v1,PrimeSelect,Clothing,Men's T-Shirt,176.45,238.53,10,214.68,962,4.0,910,True
+P00164,EcoBloom Men's T-Shirt,EcoBloom,Clothing,Men's T-Shirt,338.76,752.64,0,752.64,468,3.37,514,True
+P00165,SilverKey Quinoa (1 kg),SilverKey,Grocery & Gourmet,Quinoa (1 kg),18.07,33.35,15,28.35,247,4.0,12,True
+P00166,PeakLine RC Car,PeakLine,Toys & Games,RC Car,421.17,689.38,30,482.57,976,3.61,4309,True
+P00167,LunaGoods Gaming Console,LunaGoods,Electronics,Gaming Console,39.61,66.24,15,56.3,382,4.1,553,True
+P00168,GoldenGate Raincoat,GoldenGate,Clothing,Raincoat,589.47,942.5,30,659.75,45,4.21,2886,True
+P00169,PureCraft Mattress Topper,PureCraft,Home & Kitchen,Mattress Topper,784.75,1409.42,0,1409.42,186,4.18,3749,True
+P00170,SkyForge Noise-Cancelling Headphones,SkyForge,Electronics,Noise-Cancelling Headphones,709.2,1117.74,20,894.19,317,3.9,4222,False
+P00171,UrbanEdge Protein Bars (12-pack),UrbanEdge,Grocery & Gourmet,Protein Bars (12-pack),603.87,850.24,10,765.22,365,4.22,2719,True
+P00172,AuraStyle Lip Balm Set,AuraStyle,Beauty & Personal Care,Lip Balm Set,595.93,1405.06,0,1405.06,395,3.96,2777,True
+P00173,TrueNorth Mixed Nuts (500g),TrueNorth,Grocery & Gourmet,Mixed Nuts (500g),217.04,273.8,30,191.66,434,4.82,1478,True
+P00174,SwiftWave Women's Dress,SwiftWave,Clothing,Women's Dress,530.43,829.47,0,829.47,617,4.49,3490,True
+P00175,UrbanEdge Eyeshadow Palette,UrbanEdge,Beauty & Personal Care,Eyeshadow Palette,582.82,1387.5,0,1387.5,629,4.58,469,True
+P00176,TrueNorth Play-Doh Bundle,TrueNorth,Toys & Games,Play-Doh Bundle,641.87,1326.88,0,1326.88,975,4.09,255,True
+P00177,ClearPath Organic Olive Oil v1,ClearPath,Grocery & Gourmet,Organic Olive Oil,58.45,128.65,0,128.65,375,3.15,265,True
+P00178,PureCraft Facial Cleanser,PureCraft,Beauty & Personal Care,Facial Cleanser,611.65,1177.3,20,941.84,542,5.0,3006,True
+P00179,NovaBrands Cycling Helmet,NovaBrands,Sports & Outdoors,Cycling Helmet,25.6,35.87,10,32.28,530,3.52,2144,True
+P00180,BlueMark Zero to One,BlueMark,Books,Zero to One,556.71,1390.74,0,1390.74,204,4.6,1004,True
+P00181,PureCraft Green Tea (100 bags),PureCraft,Grocery & Gourmet,Green Tea (100 bags),797.82,1790.46,0,1790.46,990,4.4,2846,True
+P00182,BlueMark Hiking Backpack,BlueMark,Sports & Outdoors,Hiking Backpack,681.83,1439.3,15,1223.4,949,3.67,1426,True
+P00183,ClearPath Winter Jacket,ClearPath,Clothing,Winter Jacket,193.21,351.05,0,351.05,369,3.56,4519,True
+P00184,BlueMark Women's Dress,BlueMark,Clothing,Women's Dress,321.54,680.98,20,544.78,490,3.91,4306,True
+P00185,SwiftWave Denim Jeans,SwiftWave,Clothing,Denim Jeans,515.66,906.25,0,906.25,696,3.79,4516,True
+P00186,TrueNorth Knife Block Set,TrueNorth,Home & Kitchen,Knife Block Set,729.02,892.91,0,892.91,127,4.07,4244,True
+P00187,EcoBloom Non-Stick Pan Set,EcoBloom,Home & Kitchen,Non-Stick Pan Set,280.09,677.88,30,474.52,916,4.05,1608,True
+P00188,SilverKey Pull-Up Bar,SilverKey,Sports & Outdoors,Pull-Up Bar,79.28,159.78,0,159.78,606,4.34,4756,True
+P00189,GoldenGate Makeup Brush Set,GoldenGate,Beauty & Personal Care,Makeup Brush Set,37.75,87.43,10,78.69,83,4.92,4724,True
+P00190,TechNova Stuffed Animal,TechNova,Toys & Games,Stuffed Animal,400.94,800.55,25,600.41,296,4.34,2474,True
+P00191,PureCraft Action Figure Set,PureCraft,Toys & Games,Action Figure Set,63.01,77.56,0,77.56,450,3.52,2786,True
+P00192,NexGen Face Mask Sheet Pack,NexGen,Beauty & Personal Care,Face Mask Sheet Pack,780.42,1035.25,30,724.67,379,4.44,4218,True
+P00193,NovaBrands Thinking Fast and Slow,NovaBrands,Books,Thinking Fast and Slow,217.64,323.13,5,306.97,99,5.0,3425,False
+P00194,SwiftWave Mattress Topper,SwiftWave,Home & Kitchen,Mattress Topper,747.33,1586.97,25,1190.23,194,4.55,1305,False
+P00195,BlueMark Hot Sauce Set,BlueMark,Grocery & Gourmet,Hot Sauce Set,400.41,509.15,15,432.78,402,2.54,1762,True
+P00196,IronVault Trekking Poles,IronVault,Sports & Outdoors,Trekking Poles,706.46,1436.41,30,1005.49,481,4.05,2340,True
+P00197,ClearPath Casual Shorts,ClearPath,Clothing,Casual Shorts,706.55,1506.46,30,1054.52,782,3.95,419,True
+P00198,AuraStyle Resistance Bands Set,AuraStyle,Sports & Outdoors,Resistance Bands Set,405.88,885.61,0,885.61,286,4.2,973,False
+P00199,SwiftWave Play-Doh Bundle,SwiftWave,Toys & Games,Play-Doh Bundle,448.48,737.11,0,737.11,147,4.33,4096,True
+P00200,SwiftWave Toaster Oven,SwiftWave,Home & Kitchen,Toaster Oven,644.15,1192.39,30,834.67,152,4.78,4966,True
+P00201,AuraStyle Electric Toothbrush,AuraStyle,Beauty & Personal Care,Electric Toothbrush,792.54,1702.44,30,1191.71,306,3.51,4175,True
+P00202,TechNova Trekking Poles,TechNova,Sports & Outdoors,Trekking Poles,297.84,613.44,10,552.1,426,3.7,4781,True
+P00203,LunaGoods Webcam,LunaGoods,Electronics,Webcam,216.1,439.77,25,329.83,995,4.23,420,True
+P00204,EcoBloom RC Car,EcoBloom,Toys & Games,RC Car,30.1,73.15,0,73.15,112,3.32,1562,True
+P00205,BoldStep RC Car,BoldStep,Toys & Games,RC Car,553.95,943.94,0,943.94,793,3.58,510,True
+P00206,LunaGoods Shampoo & Conditioner Bundle,LunaGoods,Beauty & Personal Care,Shampoo & Conditioner Bundle,422.75,665.23,30,465.66,177,3.66,3765,True
+P00207,PrimeSelect Shampoo & Conditioner Bundle,PrimeSelect,Beauty & Personal Care,Shampoo & Conditioner Bundle,490.01,690.7,10,621.63,252,4.01,2438,True
+P00208,LunaGoods Mixed Nuts (500g),LunaGoods,Grocery & Gourmet,Mixed Nuts (500g),282.3,680.48,10,612.43,814,4.6,2240,True
+P00209,AuraStyle Bike for Kids,AuraStyle,Toys & Games,Bike for Kids,655.61,1598.85,15,1359.02,823,4.21,647,False
+P00210,LunaGoods Gym Gloves,LunaGoods,Sports & Outdoors,Gym Gloves,175.12,397.13,10,357.42,277,4.24,4604,True
+P00211,UrbanEdge Deep Work,UrbanEdge,Books,Deep Work,537.52,1003.5,25,752.62,653,4.13,2705,True
+P00212,SilverKey Air Fryer,SilverKey,Home & Kitchen,Air Fryer,782.44,1066.64,25,799.98,668,4.37,3896,True
+P00213,BlueMark Water Bottle (32oz),BlueMark,Sports & Outdoors,Water Bottle (32oz),518.49,1231.78,0,1231.78,91,3.85,305,True
+P00214,UrbanEdge Pillow Set,UrbanEdge,Home & Kitchen,Pillow Set,797.75,1344.96,10,1210.46,507,3.74,1526,True
+P00215,GoldenGate Wireless Earbuds,GoldenGate,Electronics,Wireless Earbuds,484.21,1163.76,30,814.63,343,3.71,4450,True
+P00216,TrueNorth Mattress Topper,TrueNorth,Home & Kitchen,Mattress Topper,377.08,531.79,0,531.79,115,5.0,2708,True
+P00217,ZenCraft Gym Gloves,ZenCraft,Sports & Outdoors,Gym Gloves,16.2,26.0,20,20.8,302,3.18,1437,True
+P00218,AuraStyle Moisturising Sunscreen SPF50 v1,AuraStyle,Beauty & Personal Care,Moisturising Sunscreen SPF50,537.06,751.59,15,638.85,143,3.68,3911,False
+P00219,AuraStyle Wireless Earbuds,AuraStyle,Electronics,Wireless Earbuds,192.24,416.69,0,416.69,976,3.72,4693,True
+P00220,EcoBloom Face Mask Sheet Pack,EcoBloom,Beauty & Personal Care,Face Mask Sheet Pack,54.39,71.23,20,56.98,314,4.8,1308,True
+P00221,NovaBrands Gym Gloves,NovaBrands,Sports & Outdoors,Gym Gloves,512.78,1240.85,25,930.64,376,3.78,1094,True
+P00222,SilverKey Lip Balm Set,SilverKey,Beauty & Personal Care,Lip Balm Set,730.67,1587.32,5,1507.95,821,3.82,1789,True
+P00223,PureCraft Activewear Leggings,PureCraft,Clothing,Activewear Leggings,424.9,696.16,30,487.31,939,3.9,4486,True
+P00224,SwiftWave Stand Mixer,SwiftWave,Home & Kitchen,Stand Mixer,684.32,1195.15,25,896.36,696,4.02,1682,True
+P00225,UrbanEdge Matcha Powder,UrbanEdge,Grocery & Gourmet,Matcha Powder,365.48,673.54,0,673.54,467,3.39,2524,True
+P00226,SkyForge External SSD,SkyForge,Electronics,External SSD,464.76,562.89,30,394.02,352,3.8,522,False
+P00227,LunaGoods Socks (6-pack),LunaGoods,Clothing,Socks (6-pack),30.23,51.45,15,43.73,787,4.67,3443,False
+P00228,AuraStyle Drone for Kids,AuraStyle,Toys & Games,Drone for Kids,303.64,629.05,0,629.05,677,4.75,4417,True
+P00229,ZenCraft Moisturising Sunscreen SPF50,ZenCraft,Beauty & Personal Care,Moisturising Sunscreen SPF50,794.31,1334.94,0,1334.94,130,4.04,28,False
+P00230,SilverKey Coconut Oil (500ml),SilverKey,Grocery & Gourmet,Coconut Oil (500ml),342.18,568.71,25,426.53,235,3.68,2027,True
+P00231,NovaBrands Cycling Helmet v1,NovaBrands,Sports & Outdoors,Cycling Helmet,30.61,62.48,5,59.36,629,4.23,128,True
+P00232,UrbanEdge Polo Shirt,UrbanEdge,Clothing,Polo Shirt,359.92,740.44,5,703.42,893,2.86,398,True
+P00233,EcoBloom Drone for Kids,EcoBloom,Toys & Games,Drone for Kids,434.11,941.33,5,894.26,794,4.77,2369,True
+P00234,IronVault Nail Polish Set,IronVault,Beauty & Personal Care,Nail Polish Set,619.17,1396.11,0,1396.11,242,4.35,2472,False
+P00235,BlueMark Designing Data-Intensive Applications,BlueMark,Books,Designing Data-Intensive Applications,223.75,425.48,30,297.84,605,5.0,3499,True
+P00236,AuraStyle Shampoo & Conditioner Bundle,AuraStyle,Beauty & Personal Care,Shampoo & Conditioner Bundle,629.71,995.13,0,995.13,426,3.19,3344,True
+P00237,SilverKey Rice Cooker,SilverKey,Home & Kitchen,Rice Cooker,381.45,876.04,0,876.04,307,4.31,3793,True
+P00238,TrueNorth Educational Robot Kit,TrueNorth,Toys & Games,Educational Robot Kit,111.6,164.93,0,164.93,208,3.84,2705,False
+P00239,SilverKey Moisturising Sunscreen SPF50,SilverKey,Beauty & Personal Care,Moisturising Sunscreen SPF50,581.04,817.61,0,817.61,274,3.51,323,True
+P00240,SkyForge Thinking Fast and Slow,SkyForge,Books,Thinking Fast and Slow,696.23,1113.62,5,1057.94,979,4.67,125,False
+P00241,LunaGoods Wool Sweater,LunaGoods,Clothing,Wool Sweater,731.98,1529.18,15,1299.8,720,4.48,4522,True
+P00242,SilverKey Drone for Kids,SilverKey,Toys & Games,Drone for Kids,520.73,815.66,25,611.75,368,5.0,4200,True
+P00243,SwiftWave Matcha Powder,SwiftWave,Grocery & Gourmet,Matcha Powder,731.89,1207.95,0,1207.95,423,5.0,1195,True
+P00244,ClearPath Action Figure Set,ClearPath,Toys & Games,Action Figure Set,160.97,235.1,25,176.32,583,4.44,2013,True
+P00245,LunaGoods Beard Trimmer,LunaGoods,Beauty & Personal Care,Beard Trimmer,773.37,1559.34,0,1559.34,502,3.15,2885,True
+P00246,SilverKey Green Tea (100 bags),SilverKey,Grocery & Gourmet,Green Tea (100 bags),792.31,1935.03,0,1935.03,536,4.34,277,False
+P00247,TechNova Noise-Cancelling Headphones,TechNova,Electronics,Noise-Cancelling Headphones,332.85,761.37,30,532.96,236,4.41,1791,True
+P00248,IronVault Webcam,IronVault,Electronics,Webcam,730.64,1490.53,30,1043.37,16,4.24,54,True
+P00249,TrueNorth Laptop,TrueNorth,Electronics,Laptop,579.14,1084.87,0,1084.87,293,5.0,3527,True
+P00250,ClearPath Activewear Leggings,ClearPath,Clothing,Activewear Leggings,196.57,390.53,10,351.48,258,4.22,2903,True
+P00251,AuraStyle Formal Shirt,AuraStyle,Clothing,Formal Shirt,369.9,546.83,0,546.83,713,4.24,660,True
+P00252,SilverKey Card Game (UNO),SilverKey,Toys & Games,Card Game (UNO),383.42,770.52,0,770.52,719,5.0,1403,True
+P00253,SwiftWave Water Guns Set,SwiftWave,Toys & Games,Water Guns Set,454.86,1049.93,5,997.43,97,5.0,1882,False
+P00254,UrbanEdge Protein Bars (12-pack) v1,UrbanEdge,Grocery & Gourmet,Protein Bars (12-pack),739.71,1534.14,0,1534.14,287,3.27,4448,True
+P00255,SkyForge Vitamin C Serum,SkyForge,Beauty & Personal Care,Vitamin C Serum,471.69,1021.47,0,1021.47,729,4.69,2451,True
+P00256,SilverKey Water Guns Set,SilverKey,Toys & Games,Water Guns Set,268.73,583.16,30,408.21,143,2.86,642,True
+P00257,NovaBrands Vitamin C Serum,NovaBrands,Beauty & Personal Care,Vitamin C Serum,352.49,804.46,20,643.57,348,3.45,4879,False
+P00258,PrimeSelect Vitamin C Serum,PrimeSelect,Beauty & Personal Care,Vitamin C Serum,627.92,1104.04,30,772.83,233,3.59,2914,False
+P00259,GoldenGate RC Car,GoldenGate,Toys & Games,RC Car,530.23,671.11,0,671.11,633,3.97,602,True
+P00260,ClearPath Magnetic Tiles,ClearPath,Toys & Games,Magnetic Tiles,593.03,935.51,0,935.51,109,4.53,749,False
+P00261,PrimeSelect Mixed Nuts (500g),PrimeSelect,Grocery & Gourmet,Mixed Nuts (500g),86.27,109.38,0,109.38,441,3.38,3342,True
+P00262,PeakLine Perfume,PeakLine,Beauty & Personal Care,Perfume,479.56,1059.34,0,1059.34,884,4.34,3155,True
+P00263,PeakLine Science Experiment Kit,PeakLine,Toys & Games,Science Experiment Kit,581.25,1107.5,0,1107.5,248,3.77,3118,True
+P00264,LunaGoods Running Watch,LunaGoods,Sports & Outdoors,Running Watch,121.02,166.49,10,149.84,282,3.94,3449,True
+P00265,PrimeSelect Formal Shirt,PrimeSelect,Clothing,Formal Shirt,755.66,1604.43,0,1604.43,507,3.77,876,True
+P00266,IronVault Play-Doh Bundle,IronVault,Toys & Games,Play-Doh Bundle,307.01,710.41,20,568.33,450,3.88,2742,True
+P00267,SwiftWave Instant Pot,SwiftWave,Home & Kitchen,Instant Pot,484.55,1012.05,10,910.85,490,3.49,2614,True
+P00268,EcoBloom Quinoa (1 kg),EcoBloom,Grocery & Gourmet,Quinoa (1 kg),264.08,403.62,15,343.08,804,5.0,3218,True
+P00269,SilverKey Zero to One,SilverKey,Books,Zero to One,148.04,323.66,25,242.75,27,4.74,1717,True
+P00270,BoldStep Sneakers,BoldStep,Clothing,Sneakers,540.02,722.49,10,650.24,310,3.91,1982,True
+P00271,AuraStyle Science Experiment Kit,AuraStyle,Toys & Games,Science Experiment Kit,63.8,158.7,30,111.09,490,3.46,3426,True
+P00272,SilverKey Face Mask Sheet Pack,SilverKey,Beauty & Personal Care,Face Mask Sheet Pack,477.09,1137.59,15,966.95,111,3.73,2033,True
+P00273,AuraStyle Webcam,AuraStyle,Electronics,Webcam,773.61,1235.96,5,1174.16,815,4.02,2119,True
+P00274,NexGen Thinking Fast and Slow,NexGen,Books,Thinking Fast and Slow,315.95,692.77,0,692.77,602,4.14,4099,True
+P00275,NovaBrands Mechanical Keyboard,NovaBrands,Electronics,Mechanical Keyboard,239.87,573.95,15,487.86,87,5.0,1160,True
+P00276,SkyForge Matcha Powder,SkyForge,Grocery & Gourmet,Matcha Powder,419.29,679.34,25,509.5,99,5.0,3589,True
+P00277,NovaBrands Yoga Mat,NovaBrands,Sports & Outdoors,Yoga Mat,22.96,37.04,30,25.93,111,3.94,1998,True
+P00278,SilverKey Non-Stick Pan Set,SilverKey,Home & Kitchen,Non-Stick Pan Set,343.96,610.11,0,610.11,816,3.78,3318,True
+P00279,TechNova Card Game (UNO),TechNova,Toys & Games,Card Game (UNO),591.22,1384.74,5,1315.5,460,3.6,1759,True
+P00280,NovaBrands Polo Shirt,NovaBrands,Clothing,Polo Shirt,640.6,1201.0,5,1140.95,374,3.77,2670,True
+P00281,LunaGoods Jump Rope,LunaGoods,Sports & Outdoors,Jump Rope,424.53,854.49,15,726.32,611,3.64,935,True
+P00282,ZenCraft Quinoa (1 kg),ZenCraft,Grocery & Gourmet,Quinoa (1 kg),651.92,1371.04,0,1371.04,304,4.49,4834,True
+P00283,EcoBloom Moisturising Sunscreen SPF50 v1,EcoBloom,Beauty & Personal Care,Moisturising Sunscreen SPF50,247.78,346.18,0,346.18,710,4.48,4885,True
+P00284,LunaGoods RC Car,LunaGoods,Toys & Games,RC Car,510.22,1064.39,30,745.07,660,4.56,1419,True
+P00285,ZenCraft Adjustable Dumbbells,ZenCraft,Sports & Outdoors,Adjustable Dumbbells,255.09,448.67,0,448.67,54,5.0,3969,True
+P00286,TrueNorth Educational Robot Kit v1,TrueNorth,Toys & Games,Educational Robot Kit,524.19,892.35,25,669.26,503,2.99,3404,True
+P00287,TechNova Polo Shirt,TechNova,Clothing,Polo Shirt,637.73,923.25,25,692.44,33,3.98,1377,True
+P00288,TrueNorth Pasta (5-pack),TrueNorth,Grocery & Gourmet,Pasta (5-pack),95.0,123.9,15,105.31,793,4.84,4449,True
+P00289,PureCraft Noise-Cancelling Headphones,PureCraft,Electronics,Noise-Cancelling Headphones,439.35,1092.31,10,983.08,104,4.02,2027,True
+P00290,PrimeSelect Mechanical Keyboard,PrimeSelect,Electronics,Mechanical Keyboard,282.12,635.5,5,603.73,449,3.23,961,True
+P00291,IronVault Makeup Brush Set,IronVault,Beauty & Personal Care,Makeup Brush Set,508.05,698.1,15,593.38,142,4.34,486,True
+P00292,BlueMark Non-Stick Pan Set,BlueMark,Home & Kitchen,Non-Stick Pan Set,235.02,355.09,0,355.09,878,3.03,4214,True
+P00293,UrbanEdge Bike for Kids,UrbanEdge,Toys & Games,Bike for Kids,794.03,1842.56,15,1566.18,129,4.0,1198,True
+P00294,ClearPath Drone for Kids,ClearPath,Toys & Games,Drone for Kids,464.05,702.0,25,526.5,424,3.79,3073,True
+P00295,TrueNorth Casual Shorts,TrueNorth,Clothing,Casual Shorts,601.09,1254.99,0,1254.99,898,3.1,2681,True
+P00296,PureCraft Wool Sweater,PureCraft,Clothing,Wool Sweater,509.7,1065.96,30,746.17,870,5.0,518,True
+P00297,SkyForge Musical Toy Piano,SkyForge,Toys & Games,Musical Toy Piano,398.3,631.65,25,473.74,290,3.69,4637,True
+P00298,NovaBrands Laptop,NovaBrands,Electronics,Laptop,502.81,1146.18,0,1146.18,16,4.77,1017,True
+P00299,SkyForge Gaming Console,SkyForge,Electronics,Gaming Console,796.58,1894.03,0,1894.03,903,3.89,2244,True
+P00300,NexGen Resistance Bands Set,NexGen,Sports & Outdoors,Resistance Bands Set,533.28,1080.44,10,972.4,53,3.81,3246,True
+P00301,PeakLine Designing Data-Intensive Applications,PeakLine,Books,Designing Data-Intensive Applications,564.44,649.93,25,487.45,488,4.81,4255,True
+P00302,NovaBrands Makeup Brush Set,NovaBrands,Beauty & Personal Care,Makeup Brush Set,790.58,1359.9,0,1359.9,135,4.48,3913,True
+P00303,NovaBrands Wool Sweater,NovaBrands,Clothing,Wool Sweater,87.05,143.3,0,143.3,306,4.77,1090,True
+P00304,ZenCraft Webcam,ZenCraft,Electronics,Webcam,354.88,754.22,20,603.38,643,4.88,1240,True
+P00305,SkyForge Dried Fruit Mix,SkyForge,Grocery & Gourmet,Dried Fruit Mix,73.92,95.03,20,76.02,770,4.79,2879,True
+P00306,PrimeSelect Blender,PrimeSelect,Home & Kitchen,Blender,517.47,768.46,10,691.61,615,4.78,4915,True
+P00307,BlueMark Action Camera,BlueMark,Electronics,Action Camera,168.33,331.5,5,314.93,193,4.09,447,True
+P00308,LunaGoods Winter Jacket,LunaGoods,Clothing,Winter Jacket,512.28,638.23,15,542.5,910,3.6,98,False
+P00309,GoldenGate Knife Block Set,GoldenGate,Home & Kitchen,Knife Block Set,339.59,641.0,0,641.0,176,4.22,597,True
+P00310,SkyForge Wireless Earbuds,SkyForge,Electronics,Wireless Earbuds,36.66,45.15,30,31.6,808,2.61,3260,True
+P00311,AuraStyle Card Game (UNO),AuraStyle,Toys & Games,Card Game (UNO),70.53,132.2,30,92.54,630,4.24,647,False
+P00312,SwiftWave Storage Organizer,SwiftWave,Home & Kitchen,Storage Organizer,315.63,633.25,10,569.93,854,4.31,541,True
+P00313,EcoBloom Python Programming,EcoBloom,Books,Python Programming,73.54,127.71,0,127.71,464,3.95,1438,True
+P00314,TechNova Toaster Oven,TechNova,Home & Kitchen,Toaster Oven,135.25,329.55,10,296.6,535,3.97,4237,True
+P00315,PrimeSelect Toaster Oven,PrimeSelect,Home & Kitchen,Toaster Oven,587.68,769.49,30,538.64,921,5.0,2228,True
+P00316,PureCraft Hoodie v1,PureCraft,Clothing,Hoodie,411.07,503.5,0,503.5,879,4.3,4643,True
+P00317,NovaBrands Protein Shaker Bottle,NovaBrands,Sports & Outdoors,Protein Shaker Bottle,715.94,1474.88,0,1474.88,118,4.2,360,True
+P00318,AuraStyle Mixed Nuts (500g),AuraStyle,Grocery & Gourmet,Mixed Nuts (500g),736.58,1025.02,30,717.51,983,4.81,289,True
+P00319,SwiftWave Puzzle (1000 pieces),SwiftWave,Toys & Games,Puzzle (1000 pieces),202.37,482.94,0,482.94,327,4.07,3054,True
+P00320,EcoBloom Tablet,EcoBloom,Electronics,Tablet,644.45,1594.95,0,1594.95,976,4.34,3284,True
+P00321,BlueMark Protein Shaker Bottle,BlueMark,Sports & Outdoors,Protein Shaker Bottle,265.2,503.0,5,477.85,8,3.76,2489,True
+P00322,SkyForge Matcha Powder v1,SkyForge,Grocery & Gourmet,Matcha Powder,587.31,1108.76,0,1108.76,815,4.47,2008,True
+P00323,EcoBloom LEGO City Set,EcoBloom,Toys & Games,LEGO City Set,435.53,874.77,20,699.82,710,5.0,11,True
+P00324,SkyForge Resistance Bands Set,SkyForge,Sports & Outdoors,Resistance Bands Set,426.2,627.16,0,627.16,503,3.07,490,True
+P00325,EcoBloom Men's T-Shirt v1,EcoBloom,Clothing,Men's T-Shirt,718.34,1330.13,0,1330.13,717,4.63,695,True
+P00326,GoldenGate Board Game (Catan),GoldenGate,Toys & Games,Board Game (Catan),456.42,792.91,5,753.26,987,3.69,1070,True
+P00327,AuraStyle Anti-Aging Cream,AuraStyle,Beauty & Personal Care,Anti-Aging Cream,562.08,1204.38,0,1204.38,325,3.68,1660,True
+P00328,NovaBrands Denim Jeans,NovaBrands,Clothing,Denim Jeans,135.68,241.4,30,168.98,416,4.23,989,True
+P00329,BlueMark Thinking Fast and Slow,BlueMark,Books,Thinking Fast and Slow,373.36,859.05,0,859.05,92,4.6,4942,True
+P00330,PeakLine Electric Toothbrush,PeakLine,Beauty & Personal Care,Electric Toothbrush,570.37,1401.59,0,1401.59,405,4.86,4206,True
+P00331,ZenCraft Sleeping Bag,ZenCraft,Sports & Outdoors,Sleeping Bag,29.71,50.39,25,37.79,463,3.39,775,True
+P00332,TechNova Coffee Maker,TechNova,Home & Kitchen,Coffee Maker,54.03,119.1,5,113.14,227,3.84,1070,True
+P00333,PeakLine Shampoo & Conditioner Bundle,PeakLine,Beauty & Personal Care,Shampoo & Conditioner Bundle,467.95,701.65,25,526.24,832,5.0,1619,True
+P00334,SwiftWave Socks (6-pack),SwiftWave,Clothing,Socks (6-pack),102.41,248.05,20,198.44,51,5.0,1376,True
+P00335,TechNova Drone for Kids,TechNova,Toys & Games,Drone for Kids,309.27,533.8,25,400.35,362,4.18,2292,True
+P00336,IronVault Webcam v1,IronVault,Electronics,Webcam,495.5,1002.81,30,701.97,510,4.48,3375,True
+P00337,AuraStyle Running Shoes,AuraStyle,Clothing,Running Shoes,114.1,161.94,0,161.94,905,4.23,4453,False
+P00338,SilverKey Eyeshadow Palette v1,SilverKey,Beauty & Personal Care,Eyeshadow Palette,626.24,1011.03,15,859.38,579,3.67,4115,True
+P00339,SwiftWave Air Fryer,SwiftWave,Home & Kitchen,Air Fryer,479.71,570.64,30,399.45,830,4.14,3864,True
+P00340,NovaBrands Atomic Habits,NovaBrands,Books,Atomic Habits,202.05,298.14,5,283.23,546,3.89,458,True
+P00341,ZenCraft Play-Doh Bundle,ZenCraft,Toys & Games,Play-Doh Bundle,145.0,282.74,0,282.74,825,4.06,4846,True
+P00342,GoldenGate Nail Polish Set,GoldenGate,Beauty & Personal Care,Nail Polish Set,117.97,286.7,30,200.69,856,3.54,4032,True
+P00343,PeakLine Organic Olive Oil,PeakLine,Grocery & Gourmet,Organic Olive Oil,49.65,97.43,0,97.43,20,4.08,1650,True
+P00344,SwiftWave Pillow Set,SwiftWave,Home & Kitchen,Pillow Set,52.35,70.64,0,70.64,721,4.1,1160,True
+P00345,NexGen Moisturising Sunscreen SPF50,NexGen,Beauty & Personal Care,Moisturising Sunscreen SPF50,565.11,1155.02,0,1155.02,600,4.51,1117,True
+P00346,LunaGoods Science Experiment Kit,LunaGoods,Toys & Games,Science Experiment Kit,521.1,721.81,15,613.54,991,4.4,4603,True
+P00347,BlueMark Knife Block Set,BlueMark,Home & Kitchen,Knife Block Set,588.53,910.81,20,728.65,181,3.91,4692,True
+P00348,IronVault Tablet,IronVault,Electronics,Tablet,257.98,578.36,0,578.36,626,2.65,1809,False
+P00349,PeakLine Non-Stick Pan Set,PeakLine,Home & Kitchen,Non-Stick Pan Set,194.21,480.91,25,360.68,171,3.09,2750,True
+P00350,PeakLine Deep Work,PeakLine,Books,Deep Work,283.63,627.52,0,627.52,737,2.94,10,True
+P00351,BoldStep RC Car v1,BoldStep,Toys & Games,RC Car,397.0,659.52,5,626.54,559,3.3,4735,True
+P00352,UrbanEdge Raincoat,UrbanEdge,Clothing,Raincoat,239.45,378.4,0,378.4,974,4.9,857,True
+P00353,PeakLine RC Car v1,PeakLine,Toys & Games,RC Car,439.9,1039.25,0,1039.25,95,3.19,3954,True
+P00354,BoldStep Vacuum Cleaner,BoldStep,Home & Kitchen,Vacuum Cleaner,129.9,167.14,20,133.71,210,5.0,1556,True
+P00355,BlueMark Jump Rope,BlueMark,Sports & Outdoors,Jump Rope,241.43,308.91,0,308.91,402,3.07,1258,True
+P00356,BlueMark Board Game (Catan),BlueMark,Toys & Games,Board Game (Catan),660.0,1315.96,0,1315.96,491,3.6,1635,True
+P00357,BlueMark Electric Kettle,BlueMark,Home & Kitchen,Electric Kettle,781.76,1398.82,10,1258.94,118,3.88,4006,True
+P00358,NexGen RC Car,NexGen,Toys & Games,RC Car,708.97,1168.87,10,1051.98,456,4.66,365,True
+P00359,PrimeSelect Cycling Helmet,PrimeSelect,Sports & Outdoors,Cycling Helmet,453.58,614.16,30,429.91,713,3.97,2816,True
+P00360,UrbanEdge The Lean Startup,UrbanEdge,Books,The Lean Startup,673.43,1518.48,25,1138.86,428,3.88,4386,True
+P00361,BlueMark Thinking Fast and Slow v1,BlueMark,Books,Thinking Fast and Slow,67.77,160.53,0,160.53,731,4.86,4233,True
+P00362,ZenCraft Green Tea (100 bags),ZenCraft,Grocery & Gourmet,Green Tea (100 bags),777.87,1743.53,20,1394.82,129,4.27,349,True
+P00363,ClearPath Puzzle (1000 pieces),ClearPath,Toys & Games,Puzzle (1000 pieces),668.12,1000.94,20,800.75,932,3.94,712,True
+P00364,PrimeSelect Makeup Brush Set,PrimeSelect,Beauty & Personal Care,Makeup Brush Set,418.15,998.61,30,699.03,12,3.02,4813,True
+P00365,ClearPath Casual Shorts v1,ClearPath,Clothing,Casual Shorts,122.82,238.73,0,238.73,776,4.37,865,True
+P00366,BoldStep Anti-Aging Cream,BoldStep,Beauty & Personal Care,Anti-Aging Cream,214.99,437.28,25,327.96,585,4.04,4988,True
+P00367,ClearPath Camping Tent,ClearPath,Sports & Outdoors,Camping Tent,496.5,1027.31,5,975.94,411,5.0,2715,True
+P00368,PrimeSelect Oat Granola (1 kg),PrimeSelect,Grocery & Gourmet,Oat Granola (1 kg),718.14,845.48,10,760.93,837,4.4,2482,True
+P00369,NovaBrands Dried Fruit Mix,NovaBrands,Grocery & Gourmet,Dried Fruit Mix,778.13,1134.31,10,1020.88,307,4.74,2628,True
+P00370,PureCraft Winter Jacket,PureCraft,Clothing,Winter Jacket,173.06,391.52,30,274.06,758,4.0,3968,True
+P00371,ZenCraft 4K Monitor,ZenCraft,Electronics,4K Monitor,57.17,120.51,0,120.51,413,4.87,4658,True
+P00372,UrbanEdge The Psychology of Money,UrbanEdge,Books,The Psychology of Money,203.34,359.14,5,341.18,940,4.98,2952,True
+P00373,AuraStyle Pasta (5-pack),AuraStyle,Grocery & Gourmet,Pasta (5-pack),510.15,671.98,0,671.98,31,4.14,3654,False
+P00374,SilverKey Quinoa (1 kg) v1,SilverKey,Grocery & Gourmet,Quinoa (1 kg),283.06,388.0,0,388.0,915,4.79,2118,True
+P00375,ZenCraft LEGO City Set,ZenCraft,Toys & Games,LEGO City Set,683.79,1506.23,10,1355.61,219,4.64,1693,True
+P00376,TechNova Action Camera,TechNova,Electronics,Action Camera,381.91,507.41,0,507.41,177,3.42,4924,True
+P00377,PrimeSelect Gym Gloves,PrimeSelect,Sports & Outdoors,Gym Gloves,341.93,567.0,30,396.9,357,3.69,2475,True
+P00378,NovaBrands Stuffed Animal,NovaBrands,Toys & Games,Stuffed Animal,10.84,27.09,30,18.96,989,4.21,3065,True
+P00379,NovaBrands Running Watch,NovaBrands,Sports & Outdoors,Running Watch,387.98,622.31,10,560.08,283,3.34,2139,True
+P00380,UrbanEdge Can't Hurt Me,UrbanEdge,Books,Can't Hurt Me,645.32,1441.12,15,1224.95,614,3.18,3310,True
+P00381,LunaGoods USB-C Hub,LunaGoods,Electronics,USB-C Hub,797.99,1197.16,5,1137.3,428,3.29,4776,True
+P00382,SilverKey Sapiens,SilverKey,Books,Sapiens,512.46,918.45,30,642.91,963,4.65,2936,True
+P00383,SilverKey Mattress Topper,SilverKey,Home & Kitchen,Mattress Topper,149.0,190.98,0,190.98,131,4.05,4579,False
+P00384,PeakLine Shampoo & Conditioner Bundle v1,PeakLine,Beauty & Personal Care,Shampoo & Conditioner Bundle,181.69,263.72,20,210.98,892,3.14,2515,True
+P00385,PrimeSelect Facial Cleanser,PrimeSelect,Beauty & Personal Care,Facial Cleanser,470.53,835.7,0,835.7,120,2.92,4780,True
+P00386,NovaBrands The Lean Startup,NovaBrands,Books,The Lean Startup,694.66,1156.78,0,1156.78,305,4.32,3384,True
+P00387,SkyForge Stand Mixer,SkyForge,Home & Kitchen,Stand Mixer,277.42,688.75,0,688.75,914,4.65,2591,True
+P00388,ZenCraft Mixed Nuts (500g),ZenCraft,Grocery & Gourmet,Mixed Nuts (500g),254.16,312.19,5,296.58,462,3.73,2240,True
+P00389,ZenCraft Vacuum Cleaner,ZenCraft,Home & Kitchen,Vacuum Cleaner,394.21,859.7,20,687.76,90,4.54,3517,True
+P00390,"TechNova Honey (Raw, 500g)",TechNova,Grocery & Gourmet,"Honey (Raw, 500g)",34.99,49.66,15,42.21,382,4.56,115,True
+P00391,TechNova Python Programming,TechNova,Books,Python Programming,503.22,747.74,20,598.19,710,4.47,841,True
+P00392,PeakLine Adjustable Dumbbells,PeakLine,Sports & Outdoors,Adjustable Dumbbells,659.96,1024.64,30,717.25,297,3.74,3734,True
+P00393,ClearPath Lip Balm Set,ClearPath,Beauty & Personal Care,Lip Balm Set,277.47,656.73,0,656.73,367,4.1,3304,True
+P00394,TechNova Blender,TechNova,Home & Kitchen,Blender,473.81,652.97,20,522.38,375,3.74,306,True
+P00395,SilverKey Protein Shaker Bottle,SilverKey,Sports & Outdoors,Protein Shaker Bottle,500.39,976.66,0,976.66,49,3.64,161,True
+P00396,AuraStyle Drone for Kids v1,AuraStyle,Toys & Games,Drone for Kids,103.26,153.98,5,146.28,718,3.36,1254,True
+P00397,BoldStep Wireless Earbuds,BoldStep,Electronics,Wireless Earbuds,531.02,1085.59,0,1085.59,276,3.43,3431,True
+P00398,NovaBrands Running Shoes,NovaBrands,Clothing,Running Shoes,628.88,1145.79,10,1031.21,623,3.45,1636,True
+P00399,BoldStep Clean Code v1,BoldStep,Books,Clean Code,239.8,288.53,15,245.25,508,4.87,3937,True
+P00400,PeakLine USB-C Hub,PeakLine,Electronics,USB-C Hub,725.97,1653.44,0,1653.44,685,3.61,4047,False
+P00401,NovaBrands Wool Sweater v1,NovaBrands,Clothing,Wool Sweater,724.3,1462.98,0,1462.98,467,4.6,3803,True
+P00402,UrbanEdge Mattress Topper,UrbanEdge,Home & Kitchen,Mattress Topper,682.54,1116.83,20,893.46,693,4.06,2561,True
+P00403,UrbanEdge Sneakers,UrbanEdge,Clothing,Sneakers,12.69,16.96,10,15.26,662,4.37,3585,True
+P00404,SwiftWave Formal Shirt,SwiftWave,Clothing,Formal Shirt,150.38,254.3,10,228.87,985,4.6,3739,True
+P00405,BoldStep Matcha Powder,BoldStep,Grocery & Gourmet,Matcha Powder,520.83,1159.28,0,1159.28,115,4.75,1305,True
+P00406,GoldenGate Matcha Powder,GoldenGate,Grocery & Gourmet,Matcha Powder,544.32,759.16,0,759.16,388,4.81,2937,True
+P00407,LunaGoods Cutting Board,LunaGoods,Home & Kitchen,Cutting Board,94.79,161.64,30,113.15,47,4.91,101,True
+P00408,SwiftWave Sapiens,SwiftWave,Books,Sapiens,417.68,868.41,20,694.73,633,4.44,780,True
+P00409,NexGen Thinking Fast and Slow v1,NexGen,Books,Thinking Fast and Slow,532.65,1073.77,0,1073.77,152,4.51,447,True
+P00410,LunaGoods Storage Organizer,LunaGoods,Home & Kitchen,Storage Organizer,682.24,1585.33,15,1347.53,76,3.45,4027,True
+P00411,TrueNorth Yoga Mat,TrueNorth,Sports & Outdoors,Yoga Mat,182.05,367.46,25,275.59,412,4.2,3638,True
+P00412,SwiftWave Hot Sauce Set,SwiftWave,Grocery & Gourmet,Hot Sauce Set,99.37,181.0,0,181.0,669,3.88,145,True
+P00413,SilverKey 4K Monitor,SilverKey,Electronics,4K Monitor,5.13,6.53,30,4.57,618,4.93,4164,True
+P00414,NexGen Mixed Nuts (500g),NexGen,Grocery & Gourmet,Mixed Nuts (500g),661.12,1489.1,15,1265.73,864,3.9,3722,True
+P00415,NexGen Spice Gift Set,NexGen,Grocery & Gourmet,Spice Gift Set,574.15,748.65,10,673.78,777,4.08,2909,True
+P00416,NovaBrands Face Mask Sheet Pack,NovaBrands,Beauty & Personal Care,Face Mask Sheet Pack,41.39,56.77,0,56.77,143,4.07,3352,True
+P00417,NovaBrands Deep Work,NovaBrands,Books,Deep Work,744.52,1251.1,0,1251.1,468,4.28,2768,True
+P00418,GoldenGate Smart TV,GoldenGate,Electronics,Smart TV,102.96,242.35,30,169.64,468,3.75,4827,True
+P00419,TrueNorth Organic Olive Oil,TrueNorth,Grocery & Gourmet,Organic Olive Oil,590.29,1119.69,0,1119.69,443,4.46,4164,True
+P00420,ClearPath Toaster Oven,ClearPath,Home & Kitchen,Toaster Oven,87.33,177.95,30,124.56,620,3.52,2636,True
+P00421,EcoBloom Stuffed Animal v1,EcoBloom,Toys & Games,Stuffed Animal,222.51,545.34,20,436.27,993,3.8,1131,True
+P00422,SilverKey Sleeping Bag,SilverKey,Sports & Outdoors,Sleeping Bag,689.26,1455.05,5,1382.3,957,5.0,4534,True
+P00423,NexGen Jump Rope,NexGen,Sports & Outdoors,Jump Rope,737.35,980.02,30,686.01,727,3.21,4127,True
+P00424,NovaBrands Face Mask Sheet Pack v1,NovaBrands,Beauty & Personal Care,Face Mask Sheet Pack,609.82,1164.19,20,931.35,596,2.88,4674,True
+P00425,BoldStep Hiking Backpack,BoldStep,Sports & Outdoors,Hiking Backpack,647.6,1201.74,5,1141.65,25,3.95,463,True
+P00426,PrimeSelect Instant Pot,PrimeSelect,Home & Kitchen,Instant Pot,121.41,149.79,5,142.3,803,4.23,2417,True
+P00427,PureCraft Bluetooth Speaker,PureCraft,Electronics,Bluetooth Speaker,86.47,200.77,20,160.62,757,3.7,4597,True
+P00428,UrbanEdge Gym Gloves,UrbanEdge,Sports & Outdoors,Gym Gloves,741.56,1240.78,30,868.55,979,3.94,2561,True
+P00429,IronVault Cycling Helmet,IronVault,Sports & Outdoors,Cycling Helmet,695.74,1608.27,30,1125.79,453,4.74,3012,True
+P00430,SkyForge Rich Dad Poor Dad,SkyForge,Books,Rich Dad Poor Dad,238.87,331.92,0,331.92,699,2.94,610,False
+P00431,UrbanEdge Casual Shorts,UrbanEdge,Clothing,Casual Shorts,345.66,657.24,15,558.65,133,4.72,46,True
+P00432,ClearPath Air Fryer,ClearPath,Home & Kitchen,Air Fryer,743.26,1453.66,25,1090.25,792,5.0,2467,True
+P00433,SwiftWave Moisturising Sunscreen SPF50,SwiftWave,Beauty & Personal Care,Moisturising Sunscreen SPF50,422.69,1032.18,30,722.53,533,4.75,3407,True
+P00434,EcoBloom Formal Shirt,EcoBloom,Clothing,Formal Shirt,707.3,1446.78,10,1302.1,339,4.4,2955,True
+P00435,TechNova Pasta (5-pack),TechNova,Grocery & Gourmet,Pasta (5-pack),96.2,155.57,0,155.57,246,4.78,1997,True
+P00436,NovaBrands Lip Balm Set,NovaBrands,Beauty & Personal Care,Lip Balm Set,311.77,585.92,30,410.14,289,3.63,202,True
+P00437,TrueNorth Perfume v1,TrueNorth,Beauty & Personal Care,Perfume,359.22,434.37,0,434.37,919,3.79,674,True
+P00438,PeakLine USB-C Hub v1,PeakLine,Electronics,USB-C Hub,172.57,345.11,0,345.11,218,3.67,3475,True
+P00439,PeakLine Water Guns Set v1,PeakLine,Toys & Games,Water Guns Set,598.78,812.88,0,812.88,470,4.07,600,True
+P00440,PeakLine Foam Roller,PeakLine,Sports & Outdoors,Foam Roller,462.1,673.43,20,538.74,264,3.94,3339,True
+P00441,SwiftWave Card Game (UNO),SwiftWave,Toys & Games,Card Game (UNO),18.43,37.95,0,37.95,547,5.0,518,True
+P00442,TrueNorth Formal Shirt,TrueNorth,Clothing,Formal Shirt,89.38,197.74,0,197.74,308,4.14,4968,True
+P00443,"AuraStyle Honey (Raw, 500g)",AuraStyle,Grocery & Gourmet,"Honey (Raw, 500g)",658.59,784.78,30,549.35,160,3.78,3203,True
+P00444,NexGen Instant Pot,NexGen,Home & Kitchen,Instant Pot,766.13,892.58,0,892.58,895,4.03,4547,True
+P00445,IronVault Webcam v2,IronVault,Electronics,Webcam,318.29,601.3,5,571.23,87,3.76,2816,True
+P00446,ZenCraft Stand Mixer,ZenCraft,Home & Kitchen,Stand Mixer,180.53,411.05,0,411.05,198,5.0,938,True
+P00447,SilverKey Action Camera,SilverKey,Electronics,Action Camera,371.71,703.29,25,527.47,297,3.88,1617,False
+P00448,EcoBloom Electric Toothbrush,EcoBloom,Beauty & Personal Care,Electric Toothbrush,84.54,167.93,15,142.74,921,3.7,1585,True
+P00449,BlueMark Nail Polish Set v1,BlueMark,Beauty & Personal Care,Nail Polish Set,556.3,754.19,0,754.19,580,3.76,3508,True
+P00450,EcoBloom Rich Dad Poor Dad,EcoBloom,Books,Rich Dad Poor Dad,571.2,1151.04,0,1151.04,283,4.49,2944,True
+P00451,LunaGoods Anti-Aging Cream,LunaGoods,Beauty & Personal Care,Anti-Aging Cream,372.96,609.53,0,609.53,312,3.81,4969,True
+P00452,SilverKey Pillow Set,SilverKey,Home & Kitchen,Pillow Set,161.16,344.93,0,344.93,641,4.12,626,True
+P00453,GoldenGate Action Camera,GoldenGate,Electronics,Action Camera,465.23,1018.12,30,712.68,217,4.73,4452,True
+P00454,AuraStyle Non-Stick Pan Set,AuraStyle,Home & Kitchen,Non-Stick Pan Set,182.53,400.18,0,400.18,750,3.68,2383,True
+P00455,NexGen Casual Shorts,NexGen,Clothing,Casual Shorts,404.22,826.47,30,578.53,868,5.0,1358,True
+P00456,GoldenGate Stand Mixer,GoldenGate,Home & Kitchen,Stand Mixer,759.23,1548.99,25,1161.74,990,3.72,1197,False
+P00457,LunaGoods Smartwatch,LunaGoods,Electronics,Smartwatch,189.24,285.16,20,228.13,239,4.49,2959,True
+P00458,UrbanEdge Oat Granola (1 kg),UrbanEdge,Grocery & Gourmet,Oat Granola (1 kg),36.72,74.38,10,66.94,105,4.21,4271,True
+P00459,SilverKey Pull-Up Bar v1,SilverKey,Sports & Outdoors,Pull-Up Bar,458.28,760.05,30,532.03,387,3.52,637,True
+P00460,AuraStyle The Lean Startup,AuraStyle,Books,The Lean Startup,285.55,662.88,0,662.88,498,4.75,3949,True
+P00461,ZenCraft Cutting Board,ZenCraft,Home & Kitchen,Cutting Board,187.84,346.5,0,346.5,287,4.19,2967,True
+P00462,SwiftWave Science Experiment Kit,SwiftWave,Toys & Games,Science Experiment Kit,577.6,1039.71,5,987.72,490,4.47,3924,True
+P00463,EcoBloom LEGO City Set v1,EcoBloom,Toys & Games,LEGO City Set,39.3,75.62,0,75.62,164,4.58,4688,True
+P00464,ZenCraft Hiking Backpack,ZenCraft,Sports & Outdoors,Hiking Backpack,415.73,705.65,0,705.65,992,4.64,4617,True
+P00465,SkyForge Resistance Bands Set v1,SkyForge,Sports & Outdoors,Resistance Bands Set,362.12,901.77,0,901.77,888,3.68,3365,True
+P00466,TrueNorth Vacuum Cleaner,TrueNorth,Home & Kitchen,Vacuum Cleaner,215.29,458.06,0,458.06,350,4.15,3714,True
+P00467,NovaBrands RC Car,NovaBrands,Toys & Games,RC Car,18.17,33.72,0,33.72,931,3.47,1225,True
+P00468,SilverKey Smart TV,SilverKey,Electronics,Smart TV,405.15,530.2,30,371.14,493,4.08,1067,True
+P00469,BoldStep Educational Robot Kit,BoldStep,Toys & Games,Educational Robot Kit,299.45,361.93,20,289.54,542,2.82,3949,True
+P00470,ClearPath Casual Shorts v2,ClearPath,Clothing,Casual Shorts,207.34,452.81,10,407.53,931,4.71,686,True
+P00471,SkyForge Action Figure Set,SkyForge,Toys & Games,Action Figure Set,9.35,20.14,20,16.11,7,3.83,58,True
+P00472,NexGen Lip Balm Set,NexGen,Beauty & Personal Care,Lip Balm Set,89.73,154.8,10,139.32,599,3.96,2077,True
+P00473,NexGen Stuffed Animal,NexGen,Toys & Games,Stuffed Animal,491.45,1223.18,25,917.38,406,4.12,4567,True
+P00474,BlueMark Protein Bars (12-pack) v1,BlueMark,Grocery & Gourmet,Protein Bars (12-pack),464.23,1019.06,0,1019.06,407,3.48,1131,True
+P00475,ZenCraft Matcha Powder,ZenCraft,Grocery & Gourmet,Matcha Powder,84.72,155.57,0,155.57,804,3.7,426,True
+P00476,PeakLine Noise-Cancelling Headphones,PeakLine,Electronics,Noise-Cancelling Headphones,659.49,1178.35,0,1178.35,614,4.74,3566,True
+P00477,PeakLine Clean Code,PeakLine,Books,Clean Code,489.18,1041.01,10,936.91,953,4.92,4268,True
+P00478,ZenCraft Noise-Cancelling Headphones,ZenCraft,Electronics,Noise-Cancelling Headphones,514.03,895.75,10,806.18,206,4.02,4244,True
+P00479,ZenCraft Zero to One,ZenCraft,Books,Zero to One,540.85,884.64,20,707.71,670,4.45,2260,True
+P00480,GoldenGate Card Game (UNO) v1,GoldenGate,Toys & Games,Card Game (UNO),164.25,192.29,0,192.29,720,4.1,562,True
+P00481,PrimeSelect Facial Cleanser v1,PrimeSelect,Beauty & Personal Care,Facial Cleanser,184.9,453.03,0,453.03,465,4.81,2138,True
+P00482,PeakLine Activewear Leggings,PeakLine,Clothing,Activewear Leggings,405.02,651.66,10,586.49,119,3.76,4204,True
+P00483,PureCraft Gym Gloves,PureCraft,Sports & Outdoors,Gym Gloves,773.01,1476.66,25,1107.5,788,4.12,3758,True
+P00484,NovaBrands Mechanical Keyboard v1,NovaBrands,Electronics,Mechanical Keyboard,209.97,349.94,5,332.44,807,4.65,1805,True
+P00485,TrueNorth Play-Doh Bundle v1,TrueNorth,Toys & Games,Play-Doh Bundle,430.84,903.09,0,903.09,269,4.1,2801,True
+P00486,SwiftWave Cutting Board,SwiftWave,Home & Kitchen,Cutting Board,286.06,674.34,5,640.62,275,4.37,1497,True
+P00487,EcoBloom Deep Work,EcoBloom,Books,Deep Work,698.83,998.73,0,998.73,207,4.68,2916,True
+P00488,PeakLine Socks (6-pack),PeakLine,Clothing,Socks (6-pack),542.27,1109.28,30,776.5,628,3.12,54,False
+P00489,IronVault Mixed Nuts (500g),IronVault,Grocery & Gourmet,Mixed Nuts (500g),255.76,604.22,0,604.22,902,5.0,4020,False
+P00490,EcoBloom Camping Tent,EcoBloom,Sports & Outdoors,Camping Tent,601.38,795.71,25,596.78,538,3.37,3466,False
+P00491,NexGen 4K Monitor,NexGen,Electronics,4K Monitor,318.0,660.35,25,495.26,178,3.81,4245,True
+P00492,SkyForge Laptop,SkyForge,Electronics,Laptop,306.65,394.35,0,394.35,370,4.18,2127,True
+P00493,LunaGoods The Pragmatic Programmer,LunaGoods,Books,The Pragmatic Programmer,767.03,1237.36,15,1051.76,188,3.69,3049,True
+P00494,ZenCraft Trekking Poles,ZenCraft,Sports & Outdoors,Trekking Poles,459.27,1135.32,0,1135.32,702,4.1,1872,True
+P00495,BoldStep The Lean Startup,BoldStep,Books,The Lean Startup,685.77,970.15,0,970.15,819,4.43,79,True
+P00496,TrueNorth Pillow Set,TrueNorth,Home & Kitchen,Pillow Set,429.52,677.02,10,609.32,498,4.01,2457,True
+P00497,NovaBrands Gaming Console,NovaBrands,Electronics,Gaming Console,553.98,681.98,25,511.49,833,4.07,788,True
+P00498,NexGen Water Bottle (32oz),NexGen,Sports & Outdoors,Water Bottle (32oz),450.48,1084.75,0,1084.75,263,5.0,2819,True
+P00499,IronVault Makeup Brush Set v1,IronVault,Beauty & Personal Care,Makeup Brush Set,163.17,314.5,15,267.32,664,2.48,2331,True
+P00500,PureCraft Matcha Powder,PureCraft,Grocery & Gourmet,Matcha Powder,712.26,1185.52,0,1185.52,293,3.7,3799,True
